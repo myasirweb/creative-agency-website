@@ -31,5 +31,3 @@ The site is fully responsive, user-friendly, and visually modern — suitable fo
 
 ---
 
-## 📁 Folder Structure
-
